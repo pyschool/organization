@@ -1,2 +1,3 @@
-PySchool Orgaization
+PySchool Organization
+=====================
 
